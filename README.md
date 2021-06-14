@@ -16,5 +16,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `npm start`
 
+## Tests launch instructions
+
+### `npm run test`
+
+### `npm run test -- --coverage` if detailed coverage information is required
 Enjoy!
 
