@@ -1,38 +1,54 @@
+body {
+  background-color: #121a2b;
+}
+
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
+  color: #a2b0f7;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+/* Main Container */
+.mainContainer {
+  background-color: #0e141f;
+  color: #63e7fa;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 20vh;
+  padding: 1rem;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.arrayInput {
+  background-color: #121a2b;
+  color: #a2b0f7;
+  border: none;
+  border-bottom: 1px solid #63e7fa ;
+  margin: 0.5rem;
+  min-height: 4vh;
+  font-size: medium;
+  min-width: 40vh;
 }
+
+.arrayInput:focus {
+  outline: 1px solid #63e7fa;
+}
+
+/* End of main container */
+
+/* Output Container */
+.outputContainer {
+  color: #a2b0f7;
+  padding: 1rem;
+}
+
+.shortestStepsOutput{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* end of output container */
