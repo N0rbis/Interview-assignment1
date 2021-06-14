@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `git clone https://github.com/N0rbis/ZitiCity-assignment` into your desired directory
 
 
-### `cd ziticity-assignment`
+### `cd ZitiCity-assignment`
 
 ### `npm install`
 
