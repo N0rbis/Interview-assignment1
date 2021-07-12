@@ -1,4 +1,4 @@
-# ZitiCity Array Jumping "Game" assignment
+# Array Jumping "Game" assignment
 Plain and basic "game app" completed as part of interview process that uses:  
 [React.js](https://reactjs.org/)  
 
@@ -7,10 +7,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Setup instructions
 
 
-### `git clone https://github.com/N0rbis/ZitiCity-assignment` into your desired directory
+### `git clone https://github.com/N0rbis/Interview-assignment1` into your desired directory
 
 
-### `cd ZitiCity-assignment`
+### `cd Interview-assignment1`
 
 ### `npm install`
 
